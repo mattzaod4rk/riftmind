@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/assets/
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+.vercel/
+.env
+.env.*
+*.log
